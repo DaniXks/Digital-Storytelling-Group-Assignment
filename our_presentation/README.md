@@ -9,5 +9,4 @@ Nicholas Karachristos
 https://github.com/DaniXks <br>
 https://github.com/Karachristos
 
-
-[[eye-contact_Presentation.pdf](https://github.com/DaniXks/Digital-Storytelling-Group-Assignment/files/11636170/eye-contact_Presentation.pdf)](https://drive.google.com/file/d/1H3lrUvZjBplYdQYyrguRbFWCIOiXhb_v/view?usp=drive_link)
+https://drive.google.com/file/d/1H3lrUvZjBplYdQYyrguRbFWCIOiXhb_v/view?usp=drive_link
