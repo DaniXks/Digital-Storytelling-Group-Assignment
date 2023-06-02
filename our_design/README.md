@@ -9,6 +9,8 @@ Nicholas Karachristos
 https://github.com/DaniXks <br>
 https://github.com/Karachristos
 
+This is the link for the video on YouTube: https://www.youtube.com/watch?v=jEbomFPJs2k
+
 ### 0.	Plot and aim of the film
 Two strangers happen to cross the same path every day, it doesn’t take long until they notice one another, they start exchanging stares that become more and more intense day by day. What are they thinking about, what are their impressions of one another, are they friendly or are they hostile to each other? As the days go by the stares start to become a routine, more and more familiar to them, till one day one of the strangers doesn’t go by the usual place. What happened to him? Why didn’t he show up? How will the other stranger react?
 
