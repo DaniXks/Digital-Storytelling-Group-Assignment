@@ -34,7 +34,13 @@ Meis?
 #4.	Locations
 The primary location of our film is obviously the Miaouli square. We filmed most of the days there using 2 wide shots and some closes ups. The last day was firstly filmed outside the cosmote building and on a small parked called Nomarchia. We used a wide shot for every scene. After that we filmed the ending scenes at the pier next to the port using a mix of shots. 
 
-locations
+![place1](https://github.com/DaniXks/Digital-Storytelling-Group-Assignment/assets/65423916/f1669e13-708a-4f87-a4b1-69dbd7e2f5ec)
+![place2](https://github.com/DaniXks/Digital-Storytelling-Group-Assignment/assets/65423916/e3f4c5cc-dc9c-44b9-97f7-a428ff9bdeae)
+![place3](https://github.com/DaniXks/Digital-Storytelling-Group-Assignment/assets/65423916/49f15d6f-ed52-49ea-82ff-d694e5496a8b)
+![place4](https://github.com/DaniXks/Digital-Storytelling-Group-Assignment/assets/65423916/9f126068-4194-49b3-b9f2-e44ef997cd64)
+
+
+
 
 ### 5.	Hardware
 The camera used to film all the scenes was a Blackmagic pocket cinema camera (not the 4k one). Scenes were filmed in 1920x1080 (FHD) with 180° shutter speed for cinematic motion blur (Proress codec 4.2.2) at 24 fps in order to achieve a maximum movie look. 
