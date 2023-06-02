@@ -59,7 +59,7 @@ We also made a simple, site where people can learn about our project
 
 ![Capture_932](https://github.com/DaniXks/Digital-Storytelling-Group-Assignment/assets/65423916/300ffa27-1c8b-4d57-af29-4f4a784bf9d7)
 
-#9.	Comic
+### 9.	Comic
 Start-up comic just to finalize our idea/plot.
 
 Comic
