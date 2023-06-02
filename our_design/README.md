@@ -17,7 +17,7 @@ Through this short film we are trying to show how eye contact can have very diff
 ### 1.	Narrative
 We chose not to use any verbal narration as we thought it would take away from the tension. We wanted to build a story solely based on eye contact, facial expressions, and body movement. A verbal narration would drive away the audience and would not fit the aesthetic of our project. That’s why we used many shots and labeled each day so we could guide the audience without the use of our voices. We also wanted to let each viewer make their own assumptions on to what each person is thinking during each stare.
 
-We also made a first day comic to bring our starter idea to life and a simple website.
+We also made a first day storyboard to bring our starter idea to life and a simple website.
 
 ### 2.	World
 Since our story takes place in the real world, all the real-life threats and dangers apply to it. But is not all dangers and threats, we are trying to show how easily relations between people can be established with nothing more than a look. It may look threatening at first, but we can never know what the other person is actually thinking about and where it can lead to.
@@ -58,24 +58,26 @@ For the music we used a custom track made in FL studio using free orchestral sam
 
 
 ### 7.	Camera Tricks
-Some of the close ups were filmed at 30 fps (camera's maximum) so we could replay them at 24fps making them about 20%. Using this technique, we managed to increase the dramatic effect and the tension build up as well as making the camera shake smoother.
+Some of the close ups were filmed at 30 fps (the camera's maximum) so we could replay them at 24fps making them about 20% slower. Using this technique, we managed to increase the dramatic effect and the tension build up as well as making the camera shake less intense.
 
 ### 8.	Webpage
-We also made a simple, site where people can learn about our project
+We also made a simple site where people can learn about our project
 
 ![Capture_932](https://github.com/DaniXks/Digital-Storytelling-Group-Assignment/assets/65423916/300ffa27-1c8b-4d57-af29-4f4a784bf9d7)
 
-### 9.	Comic
-Start-up comic just to finalize our idea/plot.
+### 9.	Storyboard
+Start-up storyboard just to finalize our idea/plot.
 
-Comic
-
+![20230602_163826(1)](https://github.com/DaniXks/Digital-Storytelling-Group-Assignment/assets/65423916/2485763d-8c6f-41c4-b149-bf8c62646748)
 
 
 ### 10.	Editing
-We used Davinci Resolve to edit the film. We added color correction to some of our shots as well as a stabilizer on close ups in order to reduce camera shake. Lastly, we added the letterbox (the top and bottom black bars) to make the film more cinematic.
+We used Davinci Resolve to edit the film. We color corrected all of our shots and stabilized some of them, especially the close ups in order to reduce camera shake. Lastly, we added a letterbox (the top and bottom black bars) to make some shots more dramatic (and cinematic)
 
-screenshots
+![Capture_926](https://github.com/DaniXks/Digital-Storytelling-Group-Assignment/assets/65423916/25e79988-5e76-4bdf-b75c-0c40812f3b38)
+![Capture_925](https://github.com/DaniXks/Digital-Storytelling-Group-Assignment/assets/65423916/f7343bd4-eb84-4b93-a882-8c06b86faa22)
+![Capture_927](https://github.com/DaniXks/Digital-Storytelling-Group-Assignment/assets/65423916/6e107be9-feba-442a-b008-c11451d03fa9)
+
 
 
 
