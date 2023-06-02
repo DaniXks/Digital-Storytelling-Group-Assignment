@@ -6,7 +6,7 @@ Daniele Charasanakis,
 Nicholas Karachristos
 ### University Registration Number: dpsd18129, dpsd18043
 ### GitHub Personal Profile: 
-https://github.com/DaniXks
+https://github.com/DaniXks <br>
 https://github.com/Karachristos
 
 ### 0.	Plot and aim of the film
