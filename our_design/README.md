@@ -48,7 +48,7 @@ We also used a CANON Zoom Lens FD 75-200mm 1:4.5 but none of these shots made it
 ### 6.	Music
 For the music we used a custom track made in FL studio using free orchestral samples with LABS from Spitfire Audio.
 
-![Uploading Capture_922.png…]()
+![Capture_922](https://github.com/DaniXks/Digital-Storytelling-Group-Assignment/assets/65423916/423a8815-cb7f-4820-acc7-71d24e8e8fa6)
 
 
 ### 7.	Camera Tricks
