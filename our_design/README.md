@@ -24,7 +24,7 @@ Since our story takes place in the real world, all the real-life threats and dan
 
 We tried focusing on one place for most of our shots so we could capture the daily “meeting” of our characters, we also thought that if we included many different places for our shots, during the tension build up, it would drive the audience’s attention away from our characters and their thoughts. Only later we use different places when one of the characters is alone. We are trying to show that a different shot for each of the characters means that there is something troubling them and that something is not right, something is off. We didn’t want to use different places just for aesthetic purposes, we wanted them to have a specific meaning and to connect to the characters that we created. 
 
-ermoupoli
+![ermoupoli_is_the_port-town_of_syros](https://github.com/DaniXks/Digital-Storytelling-Group-Assignment/assets/65423916/1c53e601-291a-4cf0-be47-064afe4c8e76)
 
 ### 3.	Actors
 There are 2 actors in the entire film, both protagonists. The guy with the glasses is Nick. Nick is a 23-year-old that’s lives alone in Syros and walks the Miaouli square on a daily basis, sometimes more than once, to get to his destinations. The other guy is Daniele. Daniele is a 24-year-old university student in the Department of Product and Systems Design Engineering, currently on his 5th year, that crosses the Miaouli square to get to his classes. Both or our characters have explosive personalities and that shows by the way they look at each other. We also included a cat for comedic relief. We thought it was fitting since it was staring at us while we were recording some of the scenes.
@@ -43,13 +43,13 @@ The lens used were a Lumix G Vario 12-60mm f/3.5-5.6 which provides a depth of f
 
 We also used a CANON Zoom Lens FD 75-200mm 1:4.5 but none of these shots made it in the film.
 
-
-
+![place1](https://github.com/DaniXks/Digital-Storytelling-Group-Assignment/assets/65423916/68885f35-c5cb-4b01-bce5-a5318ab9b1b3)
 
 ### 6.	Music
 For the music we used a custom track made in FL studio using free orchestral samples with LABS from Spitfire Audio.
 
-Screenshot fl
+![Uploading Capture_922.png…]()
+
 
 ### 7.	Camera Tricks
 Some of the close ups were filmed at 30 fps (camera's maximum) so we could replay them at 24fps making them about 20%. Using this technique, we managed to increase the dramatic effect and the tension build up as well as making the camera shake smoother.
@@ -57,7 +57,7 @@ Some of the close ups were filmed at 30 fps (camera's maximum) so we could repla
 ### 8.	Webpage
 We also made a simple, site where people can learn about our project
 
-site
+![Capture_932](https://github.com/DaniXks/Digital-Storytelling-Group-Assignment/assets/65423916/300ffa27-1c8b-4d57-af29-4f4a784bf9d7)
 
 #9.	Comic
 Start-up comic just to finalize our idea/plot.
