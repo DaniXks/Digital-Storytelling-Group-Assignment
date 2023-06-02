@@ -2,7 +2,7 @@
 # Design Document
 
 ### First and Last Name: 
-Daniele Charasanakis
+Daniele Charasanakis,
 Nicholas Karachristos
 ### University Registration Number: dpsd18129, dpsd18043
 ### GitHub Personal Profile: 
