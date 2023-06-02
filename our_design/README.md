@@ -1,10 +1,12 @@
 # Lesson: Digital Storytelling
 # Design Document
 
-### First and Last Name: Daniele Charasanakis
+### First and Last Name: 
+Daniele Charasanakis
 Nicholas Karachristos
 ### University Registration Number: dpsd18129, dpsd18043
-### GitHub Personal Profile: https://github.com/DaniXks
+### GitHub Personal Profile: 
+https://github.com/DaniXks
 https://github.com/Karachristos
 
 ### 0.	Plot and aim of the film
