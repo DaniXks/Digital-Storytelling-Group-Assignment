@@ -1,6 +1,10 @@
 # Lesson: Digital Storytelling
 # Presentation Document
 
-### First and Last Name: xxx (all members of the team)
-### University Registration Number: dpsdxxxxx (all members of the team)
-### GitHub Personal Profile: xxx
+### First and Last Name: 
+Daniele Charasanakis,
+Nicholas Karachristos
+### University Registration Number: dpsd18129, dpsd18043
+### GitHub Personal Profile: 
+https://github.com/DaniXks <br>
+https://github.com/Karachristos
