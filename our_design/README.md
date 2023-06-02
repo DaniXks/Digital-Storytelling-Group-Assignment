@@ -29,17 +29,13 @@ We tried focusing on one place for most of our shots so we could capture the dai
 ### 3.	Actors
 There are 2 actors in the entire film, both protagonists. The guy with the glasses is Nick. Nick is a 23-year-old that’s lives alone in Syros and walks the Miaouli square on a daily basis, sometimes more than once, to get to his destinations. The other guy is Daniele. Daniele is a 24-year-old university student in the Department of Product and Systems Design Engineering, currently on his 5th year, that crosses the Miaouli square to get to his classes. Both or our characters have explosive personalities and that shows by the way they look at each other. We also included a cat for comedic relief. We thought it was fitting since it was staring at us while we were recording some of the scenes.
 
-Meis?
-
-#4.	Locations
+### 4.	Locations
 The primary location of our film is obviously the Miaouli square. We filmed most of the days there using 2 wide shots and some closes ups. The last day was firstly filmed outside the cosmote building and on a small parked called Nomarchia. We used a wide shot for every scene. After that we filmed the ending scenes at the pier next to the port using a mix of shots. 
 
 ![place1](https://github.com/DaniXks/Digital-Storytelling-Group-Assignment/assets/65423916/f1669e13-708a-4f87-a4b1-69dbd7e2f5ec)
 ![place2](https://github.com/DaniXks/Digital-Storytelling-Group-Assignment/assets/65423916/e3f4c5cc-dc9c-44b9-97f7-a428ff9bdeae)
 ![place3](https://github.com/DaniXks/Digital-Storytelling-Group-Assignment/assets/65423916/49f15d6f-ed52-49ea-82ff-d694e5496a8b)
 ![place4](https://github.com/DaniXks/Digital-Storytelling-Group-Assignment/assets/65423916/9f126068-4194-49b3-b9f2-e44ef997cd64)
-
-
 
 
 ### 5.	Hardware
